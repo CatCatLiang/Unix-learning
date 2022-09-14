@@ -21,4 +21,4 @@ ls -s: list the files along with their size.
 ls -t: sort the list by time of modification, with the newest at the top.
 ls -S: sort the list by size, with the largest at the top.
 ls -r: reverse the sorting order.
-
+man ls/cd/man  find out what they are and what they do
